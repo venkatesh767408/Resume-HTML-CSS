@@ -1,0 +1,62 @@
+body{
+    margin:o;
+    background-position: rgb(231, 144, 30);
+}
+#wel{
+    font-family: "Times New Roman", Times, serif;
+    font-size: medium;
+    background-color: aquamarine;
+    text-decoration: double;
+    
+    
+    
+}
+#head1{
+    background-color: black;
+    border: 2px solid black;
+}
+h1{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#about{
+    font-family: inherit;
+    line-height: 1.5;
+    font-size: 15px;
+    margin: 0;
+    padding: 20px;
+    
+}
+#intro{
+    background-color: aquamarine;
+    box-sizing: 20px 20px;
+}
+#profile{
+    width:100%;
+    font-style: normal;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top:2px;
+    white-space: normal;
+}
+#res{
+    background-color: rgb(219, 204, 182);
+    text-align: left;
+    table-layout: fixed;
+    text-decoration: aliceblue;
+    border-color:rgb(14, 5, 5);
+    border:1px solid black;
+    margin: 0 auto; 
+    width: 50%; 
+}
+#ex{
+    border: 1px solid black;
+    padding: 10px;
+    width: 100%;
+    height:auto;
+    text-align: left;
+    
+  }
+}
+
